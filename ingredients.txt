@@ -1,8 +1,4 @@
 4 avocados
 salt
-pepper
 1/2 onion
-cilantro
-lime
-chili flakes
-tomato
+
